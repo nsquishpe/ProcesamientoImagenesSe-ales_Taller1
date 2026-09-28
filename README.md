@@ -1,10 +1,10 @@
 # Reto: Preparación y Validación Reproducible de Datos Industrial (L-DED)
 
-**Grupo 5** | Taller 1 - Análisis, Sincronización y Reducción de Datos
+**Grupo 5: Junior Anchundia, Jeremy Garzon, Noelia Quishpe ** | Taller 1 - Análisis, Sincronización y Reducción de Datos
 
 ---
 
-## 📋 Resumen Ejecutivo
+## Resumen Ejecutivo
 
 Este proyecto procesa y valida un conjunto de datos industriales proveniente de un sistema de **deposición láser (L-DED)**: sincroniza 41,645 imágenes TIFF (16 bits) capturadas por un sensor de alta resolución con telemetría en CSV que registra posiciones 3D, orientación, estado del láser y temperaturas del proceso.
 
@@ -12,7 +12,7 @@ Este proyecto procesa y valida un conjunto de datos industriales proveniente de 
 
 ---
 
-## 🎯 Contexto Técnico
+## Contexto Técnico
 
 ### Tecnología L-DED (Laser Directed Energy Deposition)
 
@@ -49,7 +49,7 @@ proyecto/
 
 ---
 
-## 🔑 Flujo de Trabajo (CRISP-DM)
+## Flujo de Trabajo (CRISP-DM)
 
 El proyecto aplica la metodología **CRISP-DM** de forma estructurada:
 
@@ -81,7 +81,7 @@ El proyecto aplica la metodología **CRISP-DM** de forma estructurada:
 
 ---
 
-## 🚀 Componentes Clave
+## Componentes Clave
 
 ### 1. **Lectura de Imágenes TIFF**
 
@@ -152,7 +152,7 @@ Garantiza que todas las imágenes tengan:
 
 ---
 
-## 📊 Análisis Implementado
+## Análisis Implementado
 
 ### ACTIVIDAD 1: Describir las Imágenes
 
@@ -253,7 +253,7 @@ Los resultados se guardan en `Data/outputs/`:
 
 ---
 
-## 📚 Metodología y Buenas Prácticas
+## Metodología y Buenas Prácticas
 
 ### CRISP-DM Adaptado
 
@@ -274,7 +274,7 @@ Se aplicaron explícitamente los 5 pasos:
 
 ---
 
-## 🤝 Transferencia de Conocimiento
+## Transferencia de Conocimiento
 
 ### Para Replicar Este Análisis
 
@@ -300,7 +300,7 @@ Se aplicaron explícitamente los 5 pasos:
 
 ---
 
-## ⚠️ Consideraciones Importantes
+## Consideraciones Importantes
 
 ### Limitaciones Conocidas
 
@@ -317,7 +317,7 @@ Se aplicaron explícitamente los 5 pasos:
 
 ---
 
-## 📝 Próximas Etapas
+## Próximas Etapas
 
 Con datos preparados y validados, los siguientes pasos podrían ser:
 
@@ -328,23 +328,3 @@ Con datos preparados y validados, los siguientes pasos podrían ser:
 - Visualización 3D de trayectoria vs. imágenes
 
 ---
-
-## 👥 Equipo
-
-**Grupo 5** - Taller 1  
-Metodología: CRISP-DM  
-Fecha: [2024]
-
----
-
-## 📞 Soporte y Preguntas
-
-Para dudas específicas sobre el código:
-- Revisar docstrings de funciones
-- Consultar notas markdown en el notebook
-- Verificar outputs de validación en `Data/outputs/`
-
----
-
-**Estado**: ✅ Proyecto completado y validado  
-**Última actualización**: [Fecha actual]
