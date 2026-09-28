@@ -1,6 +1,6 @@
 # Reto: Preparación y Validación Reproducible de Datos Industrial (L-DED)
 
-**Grupo 5: Junior Anchundia, Jeremy Garzon, Noelia Quishpe ** | Taller 1 - Análisis, Sincronización y Reducción de Datos
+**Grupo 5: Junior Anchundia, Jeremy Garzon, Noelia Quishpe** | Taller 1 - Análisis, Sincronización y Reducción de Datos
 
 ---
 
