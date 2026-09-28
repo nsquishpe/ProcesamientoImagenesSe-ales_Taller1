@@ -1,0 +1,96 @@
+{
+  "descripcion": "Procesamiento y sincronizaci\u00f3n de datos de deposici\u00f3n",
+  "fecha_procesamiento": "2026-09-27T19:08:39.511353",
+  "archivo_csv_original": "C:\\Users\\noeli\\OneDrive\\Documentos\\CursoIA\\Data\\file.csv",
+  "numero_registros_csv": 58708,
+  "numero_frames_tiff": 41645,
+  "parametros_sincronizacion": {
+    "tolerancia_maxima_ms": 7.889082218704095,
+    "fps_csv": 190.13618547968414,
+    "periodo_csv_ms": 5.25938814580273,
+    "fps_frames": 134.87585751265323,
+    "periodo_frames_ms": 7.4142253361109205
+  },
+  "error_sincronizacion_ms": {
+    "media": 1.3206609716105109,
+    "mediana": 1.31988525390625,
+    "std": 0.7602101686815762,
+    "min": 0.0,
+    "max": 2.8700828552246094,
+    "p95": 2.5000572204589844
+  },
+  "calidad_datos": {
+    "columnas_constantes": [
+      "ExposureTime_i",
+      "BlackLevel_i",
+      "Laser_On_i",
+      "EAXA",
+      "EAXD",
+      "EAXE",
+      "EAXF"
+    ],
+    "columnas_poco_variantes": {
+      "ExposureTime_i": [
+        60,
+        100.0
+      ],
+      "BlackLevel_i": [
+        1,
+        100.0
+      ],
+      "Laser_On_i": [
+        1,
+        100.0
+      ],
+      "EAXA": [
+        8999999488,
+        100.0
+      ],
+      "EAXD": [
+        8999999488,
+        100.0
+      ],
+      "EAXE": [
+        8999999488,
+        100.0
+      ],
+      "EAXF": [
+        8999999488,
+        100.0
+      ]
+    }
+  },
+  "estadisticas_imagenes": {
+    "numero_frames": 41645,
+    "dimensiones": "520x656",
+    "dtype": "uint16",
+    "bits_efectivos": 12,
+    "porcentaje_pixels_cero": 94.90029845538442,
+    "intensidad_minima": 0.0,
+    "intensidad_maxima": 65520.0
+  },
+  "proceso_deposito": {
+    "numero_pasadas": 6,
+    "registros_deposito": 27677,
+    "porcentaje_deposito": 47.14348981399469
+  },
+  "trayectoria": {
+    "x_rango": [
+      -165.2949677,
+      121.0688248
+    ],
+    "y_rango": [
+      -242.916153,
+      422.8988037
+    ],
+    "z_rango": [
+      3.262552023,
+      283.2028503
+    ]
+  },
+  "versiones_librerias": {
+    "numpy": "2.5.3",
+    "pandas": "3.0.6",
+    "matplotlib": "3.11.2"
+  }
+}
