@@ -18,8 +18,6 @@ Durante el procesamiento se realizan tareas como:
 
 La estructura principal del proyecto incluye:
 
-La estructura principal del proyecto incluye:
-
 ```text
 Data/
 ├── file.csv              # Datos principales
