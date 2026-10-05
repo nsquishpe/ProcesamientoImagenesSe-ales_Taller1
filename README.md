@@ -18,6 +18,9 @@ Durante el procesamiento se realizan tareas como:
 
 La estructura principal del proyecto incluye:
 
+La estructura principal del proyecto incluye:
+
+```text
 Data/
 ├── file.csv              # Datos principales
 ├── images/               # Imágenes originales
@@ -28,6 +31,6 @@ utils/
 └── requirements.txt      # Dependencias del entorno
 
 Code/
-└── Reto_Taller1_Grupo5.ipynb    # Resolución Taller1
-├── Reto_Taller2_Grupo5.ipynb    # Resolución Taller2   
+├── Reto_Taller1_Grupo5.ipynb  # Resolución Taller 1
+└── Reto_Taller2_Grupo5.ipynb  # Resolución Taller 2
 
