@@ -1,4 +1,4 @@
-# Reto: Preparación y Validación de Datos Industriales L-DED
+# Preparación y Validación de Datos Industriales L-DED
 
 **Grupo 5: Junior Anchundia, Jeremy Garzon, Noelia Quishpe**
 
